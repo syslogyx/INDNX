@@ -1,0 +1,482 @@
+﻿/* *{
+    font-family: 'Raleway', sans-serif;
+} */
+
+.prize {
+    transform-style: preserve-3d;
+}
+
+.prize svg {
+    height: 100px;
+    transform: translateZ(30px)
+}
+
+.prize h4 {
+    
+    transform: translateZ(50px)
+}
+
+.prize h5 {
+    
+    transform: translateZ(10px)
+}
+#event
+{
+    word-spacing: 2px;
+    font-size: 22px;
+}
+.dark_blue{
+	background-color:#031b4a !important;
+}
+
+.heading_blue{
+	color:#101d65 !important;
+}
+.dark_yellow{
+
+	background-color:#ffe028;
+}
+.darl_yellow_text{
+	color:#ffe028 !important;
+}
+.dark_yellow_border{
+	border:1px solid #ffe028 !important;
+}
+
+.dark_yellow_border:hover{
+	background-color:#ffe028 !important; 
+	color:#101d65 !important;
+}
+.quickfinder{
+	margin-left:170px !important;
+}
+.quit1{
+		margin-left: 80px !important;
+	}
+nav ul li a:hover,.menu:hover{
+	background-color:#ffe028 !important; 
+	color:#101d65 !important;
+}
+.menu:hover{
+	background-color:#031b4a !important; 
+	/*color:#101d65 !important;*/
+}
+.ul-li{
+	font-size:18px !important;
+	margin-bottom:1%!important;
+}
+.ul-li-span{
+	margin-left:2% !important;
+}
+.ul-li-span_faq{
+	margin-left:2% !important;
+	font-size:16px;
+}
+.detailsGuideline{
+	margin-left: 15px;
+	height:300px;
+	margin-top:45%;	
+}
+.linkDiv312{
+		margin-left:2%
+}
+.ul-li1{
+	font-size: 23px !important;
+    word-spacing: 3px;
+    margin-bottom:0.5%!important;
+}
+.footer_color{
+	background-color:#010c21!important;
+}
+.up1{
+	font-size:22px;
+	line-height: 50px!important;
+}
+.up0{
+	font-size:25px;
+}
+.up2{
+	font-size:18px;
+}
+.para-size{
+	font-size:16px;
+	text-align: justify;
+    text-justify: inter-word;
+}
+i.tiny {
+    font-size: 10px !important;
+
+}
+.ul-li_conf {
+    font-size: 22px !important;
+    margin-bottom: 4%!important;
+}
+
+.headerMenuLi:hover {
+    background-color: #ffe028 !important;
+    color: #101d65 !important;
+}
+.footerMenu:hover{
+	color:#ffe028 !important;
+}
+	
+.judgingdesc{
+	width: 71.7% !important;
+}
+.set-margin-top-bottom-left{
+	font-size: 20px;
+	text-align:left;
+	margin-top:5px;
+	margin-bottom:5px;
+	margin-right: 10px;
+}
+.set-margin-top-bottom-right{
+	font-size: 20px;
+	text-align:left;
+	margin-top:5px;
+	margin-bottom:5px;
+	margin-right: 10px;
+}
+.left-icon-section{
+	margin-top: 20%;
+}
+.right-icon-section{
+	margin-top: 20%;
+}
+@media only screen and (max-width: 845px)
+{
+	.quickfinder{
+		margin-left:-25px !important;
+	}
+	.quit2{
+		margin-left: 40px !important;
+	}
+	.quit3{
+		margin-left: 100px !important;
+	}
+	.obj1{
+		    margin-left: 55px !important;
+	}
+	.objective{
+		 margin-left:20px !important;
+	}
+	.indnxdiff{
+		 margin-left:13px !important;
+	}
+	.indnxdiff1{
+		 padding-left:101px !important;
+	}
+        .indnxdiffC2{
+            margin-left:0px !important
+        }
+         .indnxdiffC3{
+            margin-right:0px !important
+        }
+	.indnxdiffC21{
+		padding-right: 40px !important;
+	}  
+	.indnxdiffC22{
+		padding-left: 90px !important;
+	} 
+	.indnxdiffC23{
+		margin-right: -30px !important;
+	} 
+	.indnxdiffC24{
+		margin-right: 0px !important;
+	} 
+	.indnxdiffC25{
+		margin-right: -85px !important;
+	} 
+	.indnxdiffC26{
+		margin-right: -65px !important;
+	} 
+	.queickf1{
+		margin-left: 60px !important;
+	}
+	.footer{
+		height:325px !important;
+	}
+	.footer1{
+		height:170px !important;
+	}
+	.partnerImage{
+		width: 355px !important;
+    	margin-top: -75px !important;
+	}
+	.partners{
+		height:725px !important;
+	}
+	.footer11{
+		padding-left:10px !important;
+	}
+	.footer12{
+		text-align:left !important;
+		padding-right:0px !important;
+	}
+	.linkDiv0{
+		    margin-bottom: 10% !important;
+		    margin-left: 10% !important;
+	}
+	.linkDiv01{
+		width:85% !important;
+	}
+	.linkDiv1{
+		width:28% !important;
+		 margin-top:-4% !important;
+		 margin-left: 20% !important;
+	}
+	.linkDiv2{
+		padding-right:0px !important;
+		 margin-top:-4% !important;
+	}
+	.linkDiv3{
+		width:30% !important;
+		padding-left:0px !important;
+	}
+	.linkDiv31{
+		margin-left:5px !important;
+	}
+	/*nav .brand-logo {
+    left: 25% !important;
+	}*/
+	.domain-section{
+		height: 250px !important;
+    	background-size: 100% 100% !important;
+	}
+	.important-deadline{
+		height: 200px!important;
+    	background-size: 103% 102% !important;
+	}
+	.detailsGuideline{
+		margin-top: 15% !important;
+		height: 210px !important;
+	}
+	.details{
+		height: 210px !important;
+	}
+	.detailInfo{
+		width: 366px !important;
+	    margin-left: 5px !important;
+	    height: 690px !important;
+	    margin-top: 3% !important;
+	}
+	.opportunityDetailInfo{
+		width: 366px !important;
+	    margin-left: 5px !important;
+	    height: 540px !important;
+	    margin-top: 3% !important;
+	}
+	.JudgingImage{
+		width: 376px !important;
+	    margin-left: 0px !important;
+	    height: 405px !important;
+	    margin-top: 0% !important;
+	}
+	.judgingInfo{
+		margin-left: 5px !important;
+    	margin-top: 15% !important;
+	}
+	/*.smartindustry{
+		height: 85vh !important;
+
+	}*/
+	.linkDiv310{
+		padding-left: 10px !important;
+	}
+	.linkDiv312{
+		margin-left:0% !important;
+	}
+	.linkDiv310{
+		margin-top: -13% !important;
+	}
+	.FAQ{
+		    height: 300px !important;
+	}
+	.FAQ_Face{
+		padding-right:7% !important;
+	}
+	.headingPrivacy{
+		margin-top: -3% !important;
+	}
+	.seperator{
+		margin-left:0px !important;
+	}
+	.smMentor{
+		height: 85vh !important;
+	}
+	.smMentorContainer{
+		margin-left: 5% !important;
+    	margin-right: 5% !important;
+	}
+	.smMentorHeading{
+		font-size: 50px !important;
+	}
+	.domainHeading{
+		margin-top: -5% !important;
+	}
+	.confHeadingDiv{
+		height: 85% !important;
+	}
+	.confHeadingDivheight{
+		height: 25vh !important;
+	}
+	.confHeadingfont{
+		font-size: 48px !important;
+	}
+	.timesection{
+		height: 300px !important;
+	}
+	.timesectionH3{
+		font-size: 25px !important;
+	}
+	.timesectionH4{
+		font-size: 18px !important;
+    	margin-top: -3% !important;
+	}
+	.topicInfo{
+		font-size: 19px !important;
+	    margin: 0 1% 0 1% !important;
+	    line-height: 25px !important;
+	}
+	.topicSection{
+		height: 850px !important;
+	}
+	.slideshow-container{
+		height: 440px !important;
+	}
+	.sliderImage{
+		margin-left:20% !important;
+	}
+	.text{
+		bottom: 160px !important;
+    width: 90% !important;
+	}
+	.subtext{
+		bottom: 70px !important;
+    width: 90% !important;
+    padding-left: 13px;
+    text-align: left !important;
+	}
+	.topic{
+		bottom: 0px !important;
+    width: 81% !important;
+	}
+	.whyattend{
+		padding-top:15% !important;
+	}
+	.whyattendimg{
+		margin-left: 0px !important;
+	}
+
+	.whyattendUl{
+		margin-top: 50% !important;
+	}
+	.whyattendinfo{
+		    height: 525px !important;
+	}
+	.mediaContainer{
+		    margin-left: 9% !important;
+    		margin-top: -85% !important;
+	}
+	.sponsorsContainer{
+		    margin-left: -107% !important;
+    		margin-top: 100% !important;   		
+	}
+	.topic3{
+		bottom:25px !important;
+	}
+	.topic4{
+		bottom:-30px !important;
+	}
+	.ul-li_conf{
+		padding-left:5% !important;
+	}
+	.confdivmain{
+		    height: 85vh !important;
+	}
+	/*.footer13{
+		margin-left:-3% !important;
+	}*/
+	.hardware1{
+		margin-left:10% !important;
+		width:80% !important;
+	}
+    .indnxh4{
+        font-size:30px !important;
+    }
+
+	.sys{     
+	    height: 200px ! important;
+	    width: 300px ! important;
+	}
+	.tcs{     
+	    height: 200px ! important;
+	    width: 300px ! important;
+	}
+	.d1{padding-top:10% ! important}
+	.important-deadline{
+	    display:none !important;
+	}
+	.conferenceDeadline{
+	    display:none !important;
+	}
+	.guid2{
+	/*    padding-left: 15% !important;*/
+	    padding-top: 12% !important;
+	    display:block !important;
+	   /* color: #f4c00c !important;*/
+	}
+	.headingindex{
+	        font-size: 28px !important;
+	}
+	.coloryellow{
+		background-color: #f4c00c !important;
+	}
+	.removeBorder{
+		border-right: 1px solid white !important;
+	}
+	/*.footerMenu:hover{
+		color:#ffe028 !important;
+	}*/
+	.divwidth{
+		width:380px !important;
+	}
+	.Judgingcri{
+		width: 100% !important;
+	}
+	.judgingdesc{
+		width: 100% !important;
+	}
+	.set-margin-top{
+		margin-top:10px !important;
+	}
+	.right-icon-section{
+		margin-top: 30% !important;
+	}
+
+}
+
+
+@media only screen and (max-width: 1301px) and (min-width: 846px)
+{
+	.judgingdesc {
+		    width: 70.4% !important;
+		}
+	.judgingInfo{
+		    height: 308px !important;
+	}
+	.Judgingcri{
+		width: 29.6% !important;
+	}
+	.footer12{
+		text-align:left !important;
+		padding-right:0px !important;
+	}
+	.confDiv{
+		margin-left:9% !important;
+	}
+	.right-icon-section{
+		margin-top: 30% !important;
+	}
+}
+
